@@ -1,0 +1,27 @@
+	[
+        {
+            "Name":"testeA",
+            "Score":1,
+            "IsActive":true,
+            "Pais":"BR - Brasil",
+            "TeamName":"teamA",
+            "IsLeader":false
+        },
+        {
+            "Name":"testeB",
+            "Score":2,
+            "IsActive":true,
+            "Pais":"US - United States",
+            "TeamName":"teamA",
+            "IsLeader":true
+        },
+        {
+            "Name":"testeC",
+            "Score":3,
+            "IsActive":false,
+            "Pais":"FR - France",
+            "TeamName":"teamB",
+            "IsLeader":true
+        }
+
+    ]
